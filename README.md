@@ -15,14 +15,13 @@ This project focuses on the **design and investigation of a humidity sensor** ba
 ## Basic CMOS inverter circuit
 <img src="https://github.com/user-attachments/assets/c96a58fb-e5e3-4809-a036-1eeb20926a37" width="500" alt="Simulation Graph"/>
 
-*Simulation output showing the sensor response to varying humidity levels.*
 
 ---
 
 ## Stick Diagram & Layout
 <img src="https://github.com/user-attachments/assets/1100f363-9a75-4a30-86df-39338ba26e6a" width="550" alt="PCB Layout"/>
 
-*PCB layout and prototype assembly of the humidity sensor.*
+
 
 ---
 
