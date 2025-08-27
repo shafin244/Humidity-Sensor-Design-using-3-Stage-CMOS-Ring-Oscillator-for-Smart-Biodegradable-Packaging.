@@ -1,7 +1,8 @@
 # Humidity Sensor Design using 3-Stage CMOS Ring Oscillator  
 ### For Smart Biodegradable Food Packaging
 
-This project focuses on the **design and investigation of a humidity sensor** based on a 3-stage ring oscillator using CMOS inverters, combined with a humidity-sensitive capacitance circuit. The sensor is intended for smart, eco-friendly food packaging applications.  
+This project focuses on the **Design and Investigation of a Humidity Sensor based on 3-Stage Ring Oscillator (using CMOS inverter) with
+ Humidity-Sensitive Capacitance Circuit Intended for Smart Food Packaging on Biodegradable Packaging.The sensor is intended for smart, eco-friendly food packaging applications.  
 
 ---
 
